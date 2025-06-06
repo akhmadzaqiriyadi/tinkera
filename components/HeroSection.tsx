@@ -45,7 +45,7 @@ const HeroSection = () => {
       />
 
       {/* Main Content */}
-      <div className="relative z-10 flex flex-col items-center justify-center min-h-screen px-4 sm:px-6 lg:px-8 text-center">
+      <div className="relative z-10 flex flex-col items-center justify-center min-h-screen px-4 pt-24 md:pt-0 sm:px-6 lg:px-8 text-center">
         {/* Logo/Brand Animation */}
         <motion.div
           initial={{ opacity: 0, y: -20 }}
@@ -119,7 +119,7 @@ const HeroSection = () => {
           transition={{ duration: 0.8, delay: 1.0 }}
           className="flex flex-col sm:flex-row gap-4 items-center"
         >
-          <Link href="https://wa.me/6281234567890?text=Halo%20Tinkera!%20Saya%20tertarik%20untuk%20Diskusikan%20Proyek%20Saya%20(Gratis!).%20Boleh%20dibantu%3F">
+          <Link href="https://wa.me/6285292677431?text=Halo%20Tinkera!%20Saya%20tertarik%20untuk%20Diskusikan%20Proyek%20Saya%20(Gratis!).%20Boleh%20dibantu%3F">
             <motion.button
               whileHover={{ scale: 1.05, y: -2 }}
               whileTap={{ scale: 0.95 }}

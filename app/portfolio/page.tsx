@@ -388,7 +388,7 @@ const PortfolioPage = () => {
             
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link
-                href="https://wa.me/6281234567890?text=Hai%20Tinkera%2C%20aku%20punya%20ide%20proyek%20yang%20mau%20didiskusikan.%20Bisa%20bantu%3F"
+                href="https://wa.me/6285292677431?text=Hai%20Tinkera%2C%20aku%20punya%20ide%20proyek%20yang%20mau%20didiskusikan.%20Bisa%20bantu%3F"
               >
                 <motion.button
                   whileHover={{ scale: 1.05, y: -2 }}
@@ -399,7 +399,7 @@ const PortfolioPage = () => {
                 </motion.button>
               </Link>
 
-              <Link href="https://wa.me/6281234567890?text=Halo%20Tinkera!%20Saya%20tertarik%20untuk%20Diskusikan%20Proyek%20Saya%20(Gratis!).%20Boleh%20dibantu%3F">
+              <Link href="https://wa.me/6285292677431?text=Halo%20Tinkera!%20Saya%20tertarik%20untuk%20Diskusikan%20Proyek%20Saya%20(Gratis!).%20Boleh%20dibantu%3F">
                 <motion.button
                   whileHover={{ scale: 1.05, y: -2 }}
                   whileTap={{ scale: 0.95 }}

@@ -213,7 +213,7 @@ const Servicepage = () => {
             </p>
             
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <a href='https://wa.me/628?text=Mulai%20Proyek%20Anda'
+            <a href='https://wa.me/6285292677431?text=Mulai%20Proyek%20Anda'
               target="blank"
               rel="noopener noreferrer">
               <motion.button

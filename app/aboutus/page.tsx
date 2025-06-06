@@ -220,7 +220,7 @@ const AboutPage = () => {
               whileTap={{ scale: 0.95 }}
               className="inline-block"
             >
-            <Link href="https://wa.me/6281234567890?text=Halo%20Tinkera!%20Saya%20tertarik%20mendapatkan%20konsultasi%20gratis%20untuk%20proyek%20saya.%20Bisa%20dijadwalkan%3F">
+            <Link href="https://wa.me/6285292677431?text=Halo%20Tinkera!%20Saya%20tertarik%20mendapatkan%20konsultasi%20gratis%20untuk%20proyek%20saya.%20Bisa%20dijadwalkan%3F">
                                 <button className="px-8 py-4 bg-gradient-to-r from-blue-600 to-blue-500 hover:from-blue-500 hover:to-blue-400 text-white font-semibold rounded-lg shadow-lg shadow-blue-500/25 transition-all duration-300">
                         Mari Berkolaborasi!
                     </button>

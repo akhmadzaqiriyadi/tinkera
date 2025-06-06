@@ -213,7 +213,7 @@ const Navbar = () => {
               transition={{ delay: 0.5, duration: 0.5 }}
             >
               <Link 
-                href="https://wa.me/6281234567890?text=Halo%20Tinkera!%20Saya%20ingin%20konsultasi%20tentang%20proyek%20digital%20saya.%20Kapan%20waktu%20yang%20tepat%20untuk%20diskusi%3F"
+                href="https://wa.me/6285292677431?text=Halo%20Tinkera!%20Saya%20ingin%20konsultasi%20tentang%20proyek%20digital%20saya.%20Kapan%20waktu%20yang%20tepat%20untuk%20diskusi%3F"
                 className={`border border-white text-white px-4 py-2 rounded-full hover:bg-white hover:text-slate-900 transition-colors flex items-center ${
                   scrolled ? 'py-1.5 text-xs' : 'py-2 text-sm'
                 }`}
@@ -304,7 +304,7 @@ const Navbar = () => {
                 
                 <motion.div variants={menuItemVariants} className="space-y-3 pt-4 border-t border-slate-700">
                   <Link 
-                    href="https://wa.me/6281234567890?text=Halo%20Tinkera!%20Saya%20ingin%20konsultasi%20tentang%20proyek%20digital%20saya.%20Kapan%20waktu%20yang%20tepat%20untuk%20diskusi%3F"
+                    href="https://wa.me/6285292677431?text=Halo%20Tinkera!%20Saya%20ingin%20konsultasi%20tentang%20proyek%20digital%20saya.%20Kapan%20waktu%20yang%20tepat%20untuk%20diskusi%3F"
                     className="flex items-center justify-center px-4 py-3 border border-white text-white rounded-lg hover:bg-white hover:text-slate-900 transition-colors w-full"
                     onClick={() => setIsMenuOpen(false)}
                   >
